@@ -56,7 +56,7 @@ p {
 
 .nav {
     display: flex;
-    gap: 34px;
+    gap: 15px;
 }
 
 .nav a {
